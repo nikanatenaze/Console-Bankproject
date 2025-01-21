@@ -1,0 +1,14 @@
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\bin\Debug\net8.0\ProjectBank.exe
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\bin\Debug\net8.0\ProjectBank.deps.json
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\bin\Debug\net8.0\ProjectBank.runtimeconfig.json
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\bin\Debug\net8.0\ProjectBank.dll
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\bin\Debug\net8.0\ProjectBank.pdb
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\ProjectBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\ProjectBank.AssemblyInfoInputs.cache
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\ProjectBank.AssemblyInfo.cs
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\ProjectBank.csproj.CoreCompileInputs.cache
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\ProjectBank.dll
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\refint\ProjectBank.dll
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\ProjectBank.pdb
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\ProjectBank.genruntimeconfig.cache
+C:\Users\nikanatenaze\Desktop\STEP\Back End\ProjectBank\ProjectBank\obj\Debug\net8.0\ref\ProjectBank.dll
